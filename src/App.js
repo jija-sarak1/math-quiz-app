@@ -13,7 +13,7 @@ function MathQuizApp() {
   const [operation, setOperation] = useState('+'); // Initialize with addition
 
   const generateQuestion = useCallback(() => {
-    const num1 = Math.floor(Math.random() * 10) + 1;
+    const num1 = Math.floor(Math.random() * 20) + 1;
     const num2 = Math.floor(Math.random() * 10) + 1;
     const operationOptions = ['+', '-', '*', '/'];
     const randomOperation = operationOptions[Math.floor(Math.random() * operationOptions.length)];
