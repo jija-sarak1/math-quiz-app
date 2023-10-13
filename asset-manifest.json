@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/math-quiz-app/static/css/main.8036581a.css",
+    "main.js": "/math-quiz-app/static/js/main.5dc0cb27.js",
+    "static/js/787.05b6c633.chunk.js": "/math-quiz-app/static/js/787.05b6c633.chunk.js",
+    "index.html": "/math-quiz-app/index.html",
+    "main.8036581a.css.map": "/math-quiz-app/static/css/main.8036581a.css.map",
+    "main.5dc0cb27.js.map": "/math-quiz-app/static/js/main.5dc0cb27.js.map",
+    "787.05b6c633.chunk.js.map": "/math-quiz-app/static/js/787.05b6c633.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8036581a.css",
+    "static/js/main.5dc0cb27.js"
+  ]
+}
